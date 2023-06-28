@@ -1,16 +1,2 @@
-# Dependency directories
-/node_modules/
-
-# Environment variables
-.env
-
-# Built files or output directories
-/dist/
-/build/
-/out/
-
-# Log files
-*.log
-
 # OS or editor-specific files
 .vscode/
